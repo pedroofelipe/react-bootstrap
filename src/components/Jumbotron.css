@@ -1,0 +1,4 @@
+.jumbotron{
+  background-color: rgb(84,232,220);
+  background: linear-gradient(135deg, rgba(84,232,220,1) 0%,rgba(241,231,103,1) 25%,rgba(240,229,104,1) 50%,rgba(254,182,69,1) 75%,rgba(250,118,47,1) 100%) fixed;
+}
